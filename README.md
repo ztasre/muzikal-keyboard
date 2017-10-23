@@ -9,3 +9,4 @@ Make modules for different categories of sounds.
 * piano (define keymapping, and bind different sounds to different keys)
 * guns (shell dropping, reloading, etc all based on typing speed)
 
+rewrite pyxhook to behave like inotify
